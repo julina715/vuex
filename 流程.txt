@@ -1,0 +1,55 @@
+1. 安装node
+	node -v
+	npm -v
+	npm install -g yarn
+	yarn -v
+2. npm install -g vue-cli 
+	全局安装vue-cli 脚手架
+	vue --version
+3. vue init webpack vue-demo  初始化项目包
+	project name 项目名
+	description 项目描述
+	author  创建者
+	runtime  对应的loader
+4. yarn add element-ui -S 
+	安装element组件
+
+5.yarn add vue-router --save-dev
+	安装路由
+6. yarn add vue-resource  --save-dev
+	安装http
+7. yarn add axios
+
+    跨域：fetch / axios  (proxytable)
+	config里面的 index.js 里面的：proxyTable：{ }
+	
+//   vue-cli3.0：
+1. vue --version
+2. npm install -g @vue/cli
+3. 
+
+视频地址：
+https://ke.qq.com/course/279700?taid=2294405889541268	
+简单的脚手架：
+	vue init webpack-simple vue-demo
+//  环境变量 .env
+   项目根目录下创建 .env 文件，里面填写一些字段，VUE_APP_name=zdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
